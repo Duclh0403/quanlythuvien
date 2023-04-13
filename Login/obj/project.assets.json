@@ -475,9 +475,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo Thinkpad S3\\Documents\\Windows Form\\Login\\Login\\Login.csproj",
-      "projectName": "Login",
-      "projectPath": "C:\\Users\\Lenovo Thinkpad S3\\Documents\\Windows Form\\Login\\Login\\Login.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo Thinkpad S3\\Documents\\Windows Form\\Login\\Login\\Quanlythuvien.csproj",
+      "projectName": "Quanlythuvien",
+      "projectPath": "C:\\Users\\Lenovo Thinkpad S3\\Documents\\Windows Form\\Login\\Login\\Quanlythuvien.csproj",
       "packagesPath": "C:\\Users\\Lenovo Thinkpad S3\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo Thinkpad S3\\Documents\\Windows Form\\Login\\Login\\obj\\",
       "projectStyle": "PackageReference",
